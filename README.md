@@ -1,2 +1,2 @@
 # StackGen-init
-Initialization repo for new StackGen projects
+Initialization repository for new StackGen projects
