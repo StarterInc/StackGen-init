@@ -6,7 +6,7 @@ This is a template project which contains the project structure required to crea
 To get started:
 
 ```
-git clone https://github.com/StarterInc/StackGen-init/.git <your-project-name>
+git clone https://github.com/StarterInc/StackGen-init.git <your-project-name>
 ```
 
 Once you have the repo downloaded, cd into the folder and run:
