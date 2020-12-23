@@ -34,7 +34,7 @@
     </developers>
 
    <properties>
-   		<stackgen.version>0.9.8-SNAPSHOT</stackgen.version>
+   		<stackgen.version>0.9.23</stackgen.version>
     	<aspectjplugin.version>1.12.9</aspectjplugin.version>
     	<aspectj.version>1.9.2</aspectj.version>
     	
